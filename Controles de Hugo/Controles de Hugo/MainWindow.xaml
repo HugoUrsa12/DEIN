@@ -5,8 +5,10 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Controles_de_Hugo"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Diseño de controles" Height="450" Width="800" Background="Gray" BorderThickness="5">
     <Grid>
-        
+        <TextBox Name="tbSettingText" Height="300" Width="600" TextWrapping="Wrap" AcceptsReturn="True" VerticalScrollBarVisibility="Visible" SpellCheck.IsEnabled="True" >
+            Initial text contents of the TextBox. ehrepehijrphhhhhhhhhejgrjperjperjpergrij jejgejrogeogji giejogijreoigj eorgjerogijorijgeioj
+        </TextBox>
     </Grid>
 </Window>
