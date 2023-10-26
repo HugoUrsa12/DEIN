@@ -7,8 +7,20 @@
         mc:Ignorable="d"
         Title="Diseño de controles" Height="450" Width="800" Background="Gray" BorderThickness="5">
     <Grid>
-        <TextBox Name="tbSettingText" Height="300" Width="600" TextWrapping="Wrap" AcceptsReturn="True" VerticalScrollBarVisibility="Visible" SpellCheck.IsEnabled="True" >
-            Initial text contents of the TextBox. ehrepehijrphhhhhhhhhejgrjperjperjpergrij jejgejrogeogji giejogijreoigj eorgjerogijorijgeioj
+        <TextBox Name="tbSettingText" Height="200" Width="300" HorizontalAlignment="Left" VerticalAlignment="Top"  TextWrapping="Wrap" AcceptsReturn="True" VerticalScrollBarVisibility="Visible" SpellCheck.IsEnabled="True" >
+             ehrepehijrphhhhhhhhhe hola soy Juan jgrjperjperjpergrij jejgejrogeogji giejogijreoigj eorgjerogijorijgeioj
         </TextBox>
+        <ComboBox   Width="480" HorizontalAlignment="Right" VerticalAlignment="Top">
+            <ComboBox.ItemTemplate IsSelected="True"/>
+               <DataTemplate>
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="thor.png"/>
+                    <TextBlock Text="Thor"/>
+                </StackPanel>
+               </DataTemplate>
+            </ComboBoxItem.ItemTemplate>
+            <ComboBoxItem>ComboBox Item #2</ComboBoxItem>
+            <ComboBoxItem>ComboBox Item #3</ComboBoxItem>
+        </ComboBox>
     </Grid>
 </Window>
