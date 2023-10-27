@@ -1,0 +1,15 @@
+C:\Users\alumTA\Desktop\Lo mio\Interfaces\tema 2\DEIN\DEIN\Controles de Hugo\Controles de Hugo\bin\Release\Controles de Hugo.exe.config
+C:\Users\alumTA\Desktop\Lo mio\Interfaces\tema 2\DEIN\DEIN\Controles de Hugo\Controles de Hugo\bin\Release\Controles de Hugo.exe
+C:\Users\alumTA\Desktop\Lo mio\Interfaces\tema 2\DEIN\DEIN\Controles de Hugo\Controles de Hugo\bin\Release\Controles de Hugo.pdb
+C:\Users\alumTA\Desktop\Lo mio\Interfaces\tema 2\DEIN\DEIN\Controles de Hugo\Controles de Hugo\obj\Release\Controles de Hugo.csproj.AssemblyReference.cache
+C:\Users\alumTA\Desktop\Lo mio\Interfaces\tema 2\DEIN\DEIN\Controles de Hugo\Controles de Hugo\obj\Release\MainWindow.g.cs
+C:\Users\alumTA\Desktop\Lo mio\Interfaces\tema 2\DEIN\DEIN\Controles de Hugo\Controles de Hugo\obj\Release\App.g.cs
+C:\Users\alumTA\Desktop\Lo mio\Interfaces\tema 2\DEIN\DEIN\Controles de Hugo\Controles de Hugo\obj\Release\Controles de Hugo_MarkupCompile.cache
+C:\Users\alumTA\Desktop\Lo mio\Interfaces\tema 2\DEIN\DEIN\Controles de Hugo\Controles de Hugo\obj\Release\Controles de Hugo_MarkupCompile.lref
+C:\Users\alumTA\Desktop\Lo mio\Interfaces\tema 2\DEIN\DEIN\Controles de Hugo\Controles de Hugo\obj\Release\MainWindow.baml
+C:\Users\alumTA\Desktop\Lo mio\Interfaces\tema 2\DEIN\DEIN\Controles de Hugo\Controles de Hugo\obj\Release\Controles de Hugo.g.resources
+C:\Users\alumTA\Desktop\Lo mio\Interfaces\tema 2\DEIN\DEIN\Controles de Hugo\Controles de Hugo\obj\Release\Controles_de_Hugo.Properties.Resources.resources
+C:\Users\alumTA\Desktop\Lo mio\Interfaces\tema 2\DEIN\DEIN\Controles de Hugo\Controles de Hugo\obj\Release\Controles de Hugo.csproj.GenerateResource.cache
+C:\Users\alumTA\Desktop\Lo mio\Interfaces\tema 2\DEIN\DEIN\Controles de Hugo\Controles de Hugo\obj\Release\Controles de Hugo.csproj.CoreCompileInputs.cache
+C:\Users\alumTA\Desktop\Lo mio\Interfaces\tema 2\DEIN\DEIN\Controles de Hugo\Controles de Hugo\obj\Release\Controles de Hugo.exe
+C:\Users\alumTA\Desktop\Lo mio\Interfaces\tema 2\DEIN\DEIN\Controles de Hugo\Controles de Hugo\obj\Release\Controles de Hugo.pdb

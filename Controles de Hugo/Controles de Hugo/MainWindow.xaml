@@ -30,14 +30,23 @@
                 </StackPanel>
             </ComboBoxItem>
         </ComboBox>
-        <ListBox Height="200" Width="700" VerticalAlignment="Bottom">
-            <ListBoxItem>
-                <StackPanel Orientation="Horizontal">
-                    <ProgressBar Minimum="0" Maximum="100" Value="75"/>
-                    <TextBlock Text="Interfaces" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-                </StackPanel>
-            </ListBoxItem>
-            
+        <ListBox Height="200" Width="700" VerticalAlignment="Bottom" Margin="43,0,39,-27">
+            <ListBoxItem>Interfaces</ListBoxItem>
+            <ProgressBar Width="200" Height="20" Value="20"/>
+            <ListBoxItem>Gestión Empresarial</ListBoxItem>
+            <ProgressBar Width="200" Height="20" Value="10" Foreground="red"/>
+            <ListBoxItem>Desarrollo web</ListBoxItem>
+            <ProgressBar Width="200" Height="20" Value="18"/>
+            <ListBoxItem>Empresa</ListBoxItem>
+            <ProgressBar Width="200" Height="20" Value="40"/>
+            <ListBoxItem>Psp</ListBoxItem>
+            <ProgressBar Width="200" Height="20" Value="70"/>
+            <ListBoxItem>Acceso a datos</ListBoxItem>
+            <ProgressBar Width="200" Height="20" Value="0"/>
+            <ListBoxItem>Aplicacones multimedia</ListBoxItem>
+            <ProgressBar Width="200" Height="20" Value="40"/>
+            <ListBoxItem>Ingles</ListBoxItem>
+            <ProgressBar Width="200" Height="20" Value="5"/>
         </ListBox>
     </Grid>
 </Window>
