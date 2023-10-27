@@ -10,17 +10,34 @@
         <TextBox Name="tbSettingText" Height="200" Width="300" HorizontalAlignment="Left" VerticalAlignment="Top"  TextWrapping="Wrap" AcceptsReturn="True" VerticalScrollBarVisibility="Visible" SpellCheck.IsEnabled="True" >
              ehrepehijrphhhhhhhhhe hola soy Juan jgrjperjperjpergrij jejgejrogeogji giejogijreoigj eorgjerogijorijgeioj
         </TextBox>
-        <ComboBox   Width="480" HorizontalAlignment="Right" VerticalAlignment="Top">
-            <ComboBox.ItemTemplate IsSelected="True"/>
-               <DataTemplate>
+        <ComboBox Width="480" HorizontalAlignment="Right" VerticalAlignment="Top">
+            <ComboBoxItem>
                 <StackPanel Orientation="Horizontal">
-                    <Image Source="thor.png"/>
+                    <Image Source="Imagenes/descarga.jpg" Height="30" Width="30"/>
+                    <TextBlock Text="Wall-e"/>
+                </StackPanel>
+            </ComboBoxItem>
+            <ComboBoxItem>
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="Imagenes/mario.jpg" Height="30" Width="30"/>
+                    <TextBlock Text="Mario"/>
+                </StackPanel>
+            </ComboBoxItem>
+            <ComboBoxItem>
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="Imagenes/thor.jpg" Height="30" Width="30"/>
                     <TextBlock Text="Thor"/>
                 </StackPanel>
-               </DataTemplate>
-            </ComboBoxItem.ItemTemplate>
-            <ComboBoxItem>ComboBox Item #2</ComboBoxItem>
-            <ComboBoxItem>ComboBox Item #3</ComboBoxItem>
+            </ComboBoxItem>
         </ComboBox>
+        <ListBox Height="200" Width="700" VerticalAlignment="Bottom">
+            <ListBoxItem>
+                <StackPanel Orientation="Horizontal">
+                    <ProgressBar Minimum="0" Maximum="100" Value="75"/>
+                    <TextBlock Text="Interfaces" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                </StackPanel>
+            </ListBoxItem>
+            
+        </ListBox>
     </Grid>
 </Window>
