@@ -24,5 +24,10 @@ namespace Navegacion_de_Hugo
         {
             InitializeComponent();
         }
+
+        private void Boton3_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

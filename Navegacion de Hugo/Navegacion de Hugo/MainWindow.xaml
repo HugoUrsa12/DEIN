@@ -5,8 +5,55 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Navegacion_de_Hugo"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        
-    </Grid>
-</Window>
+        Title="MainWindow" Height="550" Width="800"
+        WindowStyle="None"
+        ResizeMode="NoResize"
+        WindowStartupLocation="CenterScreen"
+        Background="Transparent"
+        AllowsTransparency="True">
+
+    <Border CornerRadius="12">
+        <Border.Background>
+            <ImageBrush ImageSource="/Imagenes/back-image.jpg" Stretch="None"/>
+        </Border.Background>
+
+        <Border CornerRadius="12" BorderThickness="5" Opacity="0.95">
+
+            <Border.BorderBrush>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                    <GradientStop Color="#462AD8" Offset="0"/>
+                    <GradientStop Color="#DA34AE" Offset="0,75"/>
+                    <GradientStop Color="#8A16C1" Offset="1"/>
+                </LinearGradientBrush>
+            </Border.BorderBrush>
+
+            <Border.Background>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                    <GradientStop Color="#060531" Offset="0"/>
+                    <GradientStop Color="#1B1448" Offset="1"/>
+                </LinearGradientBrush>
+            </Border.Background>
+            <Grid HorizontalAlignment="Center">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="30"/>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="30"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="200"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Autp"/>
+                </Grid.RowDefinitions>
+                <TextBlock Text="MENÚ PRINCIPAL" Foreground="white" FontSize="40" FontWeight="Medium" FontFamily="Montserrat" Grid.Row="0" Grid.Column="2" Margin="0,100,0,0"/>
+                <Button Name="Boton1" Content="Ir a ventana 1" Height="150" Width="200" Grid.Row="1" Grid.Column="1" Background="blue" Foreground="White" FontSize="20" FontFamily="Montserrat" Cursor="Hand" Click="Boton1"/>
+                <Button Name="Boton2" Content="Ir a ventana 2" Height="150" Width="200" Grid.Row="1" Grid.Column="2" Background="blue" Foreground="White" FontSize="20" FontFamily="Montserrat" Cursor="Hand" Click="Boton2"/>
+                <Button Name="Boton3" Content="Salir" Height="150" Width="200" Grid.Row="1" Grid.Column="3" Background="DeepSkyBlue" Foreground="White" FontSize="20" FontFamily="Montserrat" Cursor="Hand" Click="Boton3_Salir"/>
+                
+            </Grid>
+        </Border>
+    </Border>
+
+</Window> 
+
