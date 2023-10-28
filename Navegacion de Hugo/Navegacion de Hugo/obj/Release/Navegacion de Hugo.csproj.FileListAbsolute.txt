@@ -1,0 +1,8 @@
+C:\Users\hurri\OneDrive\Escritorio\DEIN\DEIN\Navegacion de Hugo\Navegacion de Hugo\obj\Release\Navegacion de Hugo.csproj.AssemblyReference.cache
+C:\Users\hurri\OneDrive\Escritorio\DEIN\DEIN\Navegacion de Hugo\Navegacion de Hugo\obj\Release\MainWindow.g.cs
+C:\Users\hurri\OneDrive\Escritorio\DEIN\DEIN\Navegacion de Hugo\Navegacion de Hugo\obj\Release\Page1.g.cs
+C:\Users\hurri\OneDrive\Escritorio\DEIN\DEIN\Navegacion de Hugo\Navegacion de Hugo\obj\Release\Window1.g.cs
+C:\Users\hurri\OneDrive\Escritorio\DEIN\DEIN\Navegacion de Hugo\Navegacion de Hugo\obj\Release\Window2.g.cs
+C:\Users\hurri\OneDrive\Escritorio\DEIN\DEIN\Navegacion de Hugo\Navegacion de Hugo\obj\Release\App.g.cs
+C:\Users\hurri\OneDrive\Escritorio\DEIN\DEIN\Navegacion de Hugo\Navegacion de Hugo\obj\Release\Navegacion de Hugo_MarkupCompile.cache
+C:\Users\hurri\OneDrive\Escritorio\DEIN\DEIN\Navegacion de Hugo\Navegacion de Hugo\obj\Release\Navegacion de Hugo_MarkupCompile.lref
