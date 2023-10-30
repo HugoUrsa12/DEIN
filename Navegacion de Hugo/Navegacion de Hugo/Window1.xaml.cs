@@ -24,7 +24,7 @@ namespace Navegacion_de_Hugo
             InitializeComponent();
         }
 
-        private void Mainwindow(object sender, RoutedEventArgs e)
+        private void MainWindow(object sender, RoutedEventArgs e)
         {
             MainWindow AbrirMainWindow = new MainWindow();
             this.Close();

@@ -34,9 +34,9 @@
             </Border.Background>
             <Grid>
                 <TextBlock Text="VENTANA 2" Foreground="white" FontSize="40" FontWeight="Medium" FontFamily="Montserrat" HorizontalAlignment="Center" Margin="0,70,0,0"/>
-                <Button Name="Menu_Principal" Content="Ir a Menú principal" Width="200" Height="150" HorizontalAlignment="Left" Margin="50" VerticalAlignment="Center" Background="Green" Foreground="LightGreen" FontSize="20" FontFamily="Montsaerrat" Cursor="Hand" Click="MainWindow"/>
+                <Button x:Name="Menu_Principal" Content="Ir a Menú principal" Width="200" Height="150" HorizontalAlignment="Left" Margin="50" VerticalAlignment="Center" Background="Green" Foreground="LightGreen" FontSize="20" FontFamily="Montsaerrat" Cursor="Hand" Click="Mainwindow"/>
                 <Frame Name="MyFrame" Content="Frame" HorizontalAlignment="Left" Height="286" Margin="288,172,0,0" VerticalAlignment="Top" Width="472"/>
-                <Button Content="Abrir Página 1" HorizontalAlignment="Left" Height="55" Margin="50,330,0,0" VerticalAlignment="Top" Width="200" FontSize="20" FontFamily="Montserrat" Background="DarkBlue" Foreground="cyan" Click="Boton2_AbrirPágina"/>
+                <Button x:Name="Boton2_Window2" Content="Abrir Página 1" HorizontalAlignment="Left" Height="55" Margin="50,330,0,0" VerticalAlignment="Top" Width="200" FontSize="20" FontFamily="Montserrat" Background="DarkBlue" Foreground="cyan" Click="Boton2_AbrirPagina"/>
             </Grid>
         </Border>
     </Border>

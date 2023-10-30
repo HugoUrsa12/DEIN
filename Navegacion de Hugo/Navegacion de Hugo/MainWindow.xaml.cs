@@ -39,9 +39,10 @@ namespace Navegacion_de_Hugo
             AbrirVentana2.Show();
         }
 
-        private void Boton_Salir(object sender, RoutedEventArgs e)
+        private void Boton3_Salir(object sender, RoutedEventArgs e)
         {
             System.Windows.Application.Current.Shutdown();
+
         }
     }
 }
