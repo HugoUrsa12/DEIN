@@ -1,0 +1,43 @@
+C:\Users\Silvia\source\repos\EjercicioControles\EstilosControles\bin\Debug\EstilosControles.exe.config
+C:\Users\Silvia\source\repos\EjercicioControles\EstilosControles\bin\Debug\EstilosControles.exe
+C:\Users\Silvia\source\repos\EjercicioControles\EstilosControles\bin\Debug\EstilosControles.pdb
+C:\Users\Silvia\source\repos\EjercicioControles\EstilosControles\obj\Debug\EstilosAplicacion.g.cs
+C:\Users\Silvia\source\repos\EjercicioControles\EstilosControles\obj\Debug\App.g.cs
+C:\Users\Silvia\source\repos\EjercicioControles\EstilosControles\obj\Debug\EstilosControles_MarkupCompile.cache
+C:\Users\Silvia\source\repos\EjercicioControles\EstilosControles\obj\Debug\EstilosControles_MarkupCompile.lref
+C:\Users\Silvia\source\repos\EjercicioControles\EstilosControles\obj\Debug\EstilosAplicacion.baml
+C:\Users\Silvia\source\repos\EjercicioControles\EstilosControles\obj\Debug\EstilosControles.g.resources
+C:\Users\Silvia\source\repos\EjercicioControles\EstilosControles\obj\Debug\EstilosControles.Properties.Resources.resources
+C:\Users\Silvia\source\repos\EjercicioControles\EstilosControles\obj\Debug\Estilos.csproj.GenerateResource.cache
+C:\Users\Silvia\source\repos\EjercicioControles\EstilosControles\obj\Debug\Estilos.csproj.CoreCompileInputs.cache
+C:\Users\Silvia\source\repos\EjercicioControles\EstilosControles\obj\Debug\EstilosControles.exe
+C:\Users\Silvia\source\repos\EjercicioControles\EstilosControles\obj\Debug\EstilosControles.pdb
+C:\Users\Silvia\source\repos\EjercicioControles\EstilosControles\obj\Debug\EstilosDiseño.g.cs
+C:\Users\Silvia\source\repos\EjercicioControles\EstilosControles\obj\Debug\EstilosIndividuales.g.cs
+C:\Users\Silvia\source\repos\EjercicioControles\EstilosControles\obj\Debug\App.baml
+C:\Users\Silvia\source\repos\EjercicioControles\EstilosControles\obj\Debug\EstilosDiseño.baml
+C:\Users\Silvia\source\repos\EjercicioControles\EstilosControles\obj\Debug\EstilosIndividuales.baml
+C:\Users\Silvia\source\repos\EjercicioControles\EstilosControles\obj\Debug\EstilosVentana.g.cs
+C:\Users\Silvia\source\repos\EjercicioControles\EstilosControles\obj\Debug\EstilosVentana.baml
+E:\TRABAJO\2021-2022 MARIANA SANZ\_DEIN\Teoría\UT1. Introducción al desarrollo de interfaces\EjemploEstilos\EstilosControles\bin\Debug\EstilosControles.exe.config
+E:\TRABAJO\2021-2022 MARIANA SANZ\_DEIN\Teoría\UT1. Introducción al desarrollo de interfaces\EjemploEstilos\EstilosControles\bin\Debug\EstilosControles.exe
+E:\TRABAJO\2021-2022 MARIANA SANZ\_DEIN\Teoría\UT1. Introducción al desarrollo de interfaces\EjemploEstilos\EstilosControles\bin\Debug\EstilosControles.pdb
+E:\TRABAJO\2021-2022 MARIANA SANZ\_DEIN\Teoría\UT1. Introducción al desarrollo de interfaces\EjemploEstilos\EstilosControles\obj\Debug\Estilos.csprojResolveAssemblyReference.cache
+E:\TRABAJO\2021-2022 MARIANA SANZ\_DEIN\Teoría\UT1. Introducción al desarrollo de interfaces\EjemploEstilos\EstilosControles\obj\Debug\EstilosAplicacion.g.cs
+E:\TRABAJO\2021-2022 MARIANA SANZ\_DEIN\Teoría\UT1. Introducción al desarrollo de interfaces\EjemploEstilos\EstilosControles\obj\Debug\EstilosDiseño.g.cs
+E:\TRABAJO\2021-2022 MARIANA SANZ\_DEIN\Teoría\UT1. Introducción al desarrollo de interfaces\EjemploEstilos\EstilosControles\obj\Debug\EstilosIndividuales.g.cs
+E:\TRABAJO\2021-2022 MARIANA SANZ\_DEIN\Teoría\UT1. Introducción al desarrollo de interfaces\EjemploEstilos\EstilosControles\obj\Debug\EstilosVentana.g.cs
+E:\TRABAJO\2021-2022 MARIANA SANZ\_DEIN\Teoría\UT1. Introducción al desarrollo de interfaces\EjemploEstilos\EstilosControles\obj\Debug\App.g.cs
+E:\TRABAJO\2021-2022 MARIANA SANZ\_DEIN\Teoría\UT1. Introducción al desarrollo de interfaces\EjemploEstilos\EstilosControles\obj\Debug\EstilosControles_MarkupCompile.cache
+E:\TRABAJO\2021-2022 MARIANA SANZ\_DEIN\Teoría\UT1. Introducción al desarrollo de interfaces\EjemploEstilos\EstilosControles\obj\Debug\EstilosControles_MarkupCompile.lref
+E:\TRABAJO\2021-2022 MARIANA SANZ\_DEIN\Teoría\UT1. Introducción al desarrollo de interfaces\EjemploEstilos\EstilosControles\obj\Debug\App.baml
+E:\TRABAJO\2021-2022 MARIANA SANZ\_DEIN\Teoría\UT1. Introducción al desarrollo de interfaces\EjemploEstilos\EstilosControles\obj\Debug\EstilosAplicacion.baml
+E:\TRABAJO\2021-2022 MARIANA SANZ\_DEIN\Teoría\UT1. Introducción al desarrollo de interfaces\EjemploEstilos\EstilosControles\obj\Debug\EstilosDiseño.baml
+E:\TRABAJO\2021-2022 MARIANA SANZ\_DEIN\Teoría\UT1. Introducción al desarrollo de interfaces\EjemploEstilos\EstilosControles\obj\Debug\EstilosIndividuales.baml
+E:\TRABAJO\2021-2022 MARIANA SANZ\_DEIN\Teoría\UT1. Introducción al desarrollo de interfaces\EjemploEstilos\EstilosControles\obj\Debug\EstilosVentana.baml
+E:\TRABAJO\2021-2022 MARIANA SANZ\_DEIN\Teoría\UT1. Introducción al desarrollo de interfaces\EjemploEstilos\EstilosControles\obj\Debug\EstilosControles.g.resources
+E:\TRABAJO\2021-2022 MARIANA SANZ\_DEIN\Teoría\UT1. Introducción al desarrollo de interfaces\EjemploEstilos\EstilosControles\obj\Debug\EstilosControles.Properties.Resources.resources
+E:\TRABAJO\2021-2022 MARIANA SANZ\_DEIN\Teoría\UT1. Introducción al desarrollo de interfaces\EjemploEstilos\EstilosControles\obj\Debug\Estilos.csproj.GenerateResource.Cache
+E:\TRABAJO\2021-2022 MARIANA SANZ\_DEIN\Teoría\UT1. Introducción al desarrollo de interfaces\EjemploEstilos\EstilosControles\obj\Debug\Estilos.csproj.CoreCompileInputs.cache
+E:\TRABAJO\2021-2022 MARIANA SANZ\_DEIN\Teoría\UT1. Introducción al desarrollo de interfaces\EjemploEstilos\EstilosControles\obj\Debug\EstilosControles.exe
+E:\TRABAJO\2021-2022 MARIANA SANZ\_DEIN\Teoría\UT1. Introducción al desarrollo de interfaces\EjemploEstilos\EstilosControles\obj\Debug\EstilosControles.pdb

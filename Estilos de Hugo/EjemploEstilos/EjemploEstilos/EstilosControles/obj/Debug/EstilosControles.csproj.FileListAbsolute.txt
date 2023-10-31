@@ -1,0 +1,17 @@
+C:\Users\Silvia\source\repos\EjercicioControles\EstilosControles\bin\Debug\EstilosControles.exe.config
+C:\Users\Silvia\source\repos\EjercicioControles\EstilosControles\bin\Debug\EstilosControles.exe
+C:\Users\Silvia\source\repos\EjercicioControles\EstilosControles\bin\Debug\EstilosControles.pdb
+C:\Users\Silvia\source\repos\EjercicioControles\EstilosControles\obj\Debug\EstilosAplicacion.g.cs
+C:\Users\Silvia\source\repos\EjercicioControles\EstilosControles\obj\Debug\MainWindow.g.cs
+C:\Users\Silvia\source\repos\EjercicioControles\EstilosControles\obj\Debug\App.g.cs
+C:\Users\Silvia\source\repos\EjercicioControles\EstilosControles\obj\Debug\EstilosControles_MarkupCompile.cache
+C:\Users\Silvia\source\repos\EjercicioControles\EstilosControles\obj\Debug\EstilosControles_MarkupCompile.lref
+C:\Users\Silvia\source\repos\EjercicioControles\EstilosControles\obj\Debug\App.baml
+C:\Users\Silvia\source\repos\EjercicioControles\EstilosControles\obj\Debug\EstilosAplicacion.baml
+C:\Users\Silvia\source\repos\EjercicioControles\EstilosControles\obj\Debug\MainWindow.baml
+C:\Users\Silvia\source\repos\EjercicioControles\EstilosControles\obj\Debug\EstilosControles.g.resources
+C:\Users\Silvia\source\repos\EjercicioControles\EstilosControles\obj\Debug\EstilosControles.Properties.Resources.resources
+C:\Users\Silvia\source\repos\EjercicioControles\EstilosControles\obj\Debug\EstilosControles.csproj.GenerateResource.cache
+C:\Users\Silvia\source\repos\EjercicioControles\EstilosControles\obj\Debug\EstilosControles.csproj.CoreCompileInputs.cache
+C:\Users\Silvia\source\repos\EjercicioControles\EstilosControles\obj\Debug\EstilosControles.exe
+C:\Users\Silvia\source\repos\EjercicioControles\EstilosControles\obj\Debug\EstilosControles.pdb

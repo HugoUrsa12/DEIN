@@ -1,0 +1,27 @@
+﻿<Window x:Class="EstilosControles.EstilosAplicacion"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EstilosControles"
+        mc:Ignorable="d"
+        Title="EstilosAplicacion" Height="450" Width="800">
+    <!--Estilo a nivel de Aplicación-->
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height = "Auto" />
+            <RowDefinition Height = "Auto" />
+            <RowDefinition Height = "*" />
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width = "*" />
+            <ColumnDefinition Width = "2*" />
+        </Grid.ColumnDefinitions>
+
+        <Label Content = "Nombre: "/>
+        <TextBox x:Name = "txtNombre" Grid.Column = "1" />
+        <Label Content = "Apellidos: " Grid.Row = "1" />
+        <TextBox x:Name = "txtApellidos" Grid.Column = "1" Grid.Row = "1" />
+    </Grid>
+</Window>

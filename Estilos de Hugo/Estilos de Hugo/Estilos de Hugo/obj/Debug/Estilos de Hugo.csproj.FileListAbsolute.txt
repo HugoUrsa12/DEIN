@@ -1,0 +1,21 @@
+C:\Users\alumTA\Desktop\Lo mio\Interfaces\tema 2\DEIN\DEIN\Estilos de Hugo\Estilos de Hugo\Estilos de Hugo\bin\Debug\Estilos de Hugo.exe.config
+C:\Users\alumTA\Desktop\Lo mio\Interfaces\tema 2\DEIN\DEIN\Estilos de Hugo\Estilos de Hugo\Estilos de Hugo\bin\Debug\Estilos de Hugo.exe
+C:\Users\alumTA\Desktop\Lo mio\Interfaces\tema 2\DEIN\DEIN\Estilos de Hugo\Estilos de Hugo\Estilos de Hugo\bin\Debug\Estilos de Hugo.pdb
+C:\Users\alumTA\Desktop\Lo mio\Interfaces\tema 2\DEIN\DEIN\Estilos de Hugo\Estilos de Hugo\Estilos de Hugo\obj\Debug\Estilos de Hugo.csproj.AssemblyReference.cache
+C:\Users\alumTA\Desktop\Lo mio\Interfaces\tema 2\DEIN\DEIN\Estilos de Hugo\Estilos de Hugo\Estilos de Hugo\obj\Debug\MainWindow.g.cs
+C:\Users\alumTA\Desktop\Lo mio\Interfaces\tema 2\DEIN\DEIN\Estilos de Hugo\Estilos de Hugo\Estilos de Hugo\obj\Debug\ventana1.g.cs
+C:\Users\alumTA\Desktop\Lo mio\Interfaces\tema 2\DEIN\DEIN\Estilos de Hugo\Estilos de Hugo\Estilos de Hugo\obj\Debug\ventana2.g.cs
+C:\Users\alumTA\Desktop\Lo mio\Interfaces\tema 2\DEIN\DEIN\Estilos de Hugo\Estilos de Hugo\Estilos de Hugo\obj\Debug\ventana3.g.cs
+C:\Users\alumTA\Desktop\Lo mio\Interfaces\tema 2\DEIN\DEIN\Estilos de Hugo\Estilos de Hugo\Estilos de Hugo\obj\Debug\App.g.cs
+C:\Users\alumTA\Desktop\Lo mio\Interfaces\tema 2\DEIN\DEIN\Estilos de Hugo\Estilos de Hugo\Estilos de Hugo\obj\Debug\Estilos de Hugo_MarkupCompile.cache
+C:\Users\alumTA\Desktop\Lo mio\Interfaces\tema 2\DEIN\DEIN\Estilos de Hugo\Estilos de Hugo\Estilos de Hugo\obj\Debug\Estilos de Hugo_MarkupCompile.lref
+C:\Users\alumTA\Desktop\Lo mio\Interfaces\tema 2\DEIN\DEIN\Estilos de Hugo\Estilos de Hugo\Estilos de Hugo\obj\Debug\MainWindow.baml
+C:\Users\alumTA\Desktop\Lo mio\Interfaces\tema 2\DEIN\DEIN\Estilos de Hugo\Estilos de Hugo\Estilos de Hugo\obj\Debug\ventana1.baml
+C:\Users\alumTA\Desktop\Lo mio\Interfaces\tema 2\DEIN\DEIN\Estilos de Hugo\Estilos de Hugo\Estilos de Hugo\obj\Debug\ventana2.baml
+C:\Users\alumTA\Desktop\Lo mio\Interfaces\tema 2\DEIN\DEIN\Estilos de Hugo\Estilos de Hugo\Estilos de Hugo\obj\Debug\ventana3.baml
+C:\Users\alumTA\Desktop\Lo mio\Interfaces\tema 2\DEIN\DEIN\Estilos de Hugo\Estilos de Hugo\Estilos de Hugo\obj\Debug\Estilos de Hugo.g.resources
+C:\Users\alumTA\Desktop\Lo mio\Interfaces\tema 2\DEIN\DEIN\Estilos de Hugo\Estilos de Hugo\Estilos de Hugo\obj\Debug\Estilos_de_Hugo.Properties.Resources.resources
+C:\Users\alumTA\Desktop\Lo mio\Interfaces\tema 2\DEIN\DEIN\Estilos de Hugo\Estilos de Hugo\Estilos de Hugo\obj\Debug\Estilos de Hugo.csproj.GenerateResource.cache
+C:\Users\alumTA\Desktop\Lo mio\Interfaces\tema 2\DEIN\DEIN\Estilos de Hugo\Estilos de Hugo\Estilos de Hugo\obj\Debug\Estilos de Hugo.csproj.CoreCompileInputs.cache
+C:\Users\alumTA\Desktop\Lo mio\Interfaces\tema 2\DEIN\DEIN\Estilos de Hugo\Estilos de Hugo\Estilos de Hugo\obj\Debug\Estilos de Hugo.exe
+C:\Users\alumTA\Desktop\Lo mio\Interfaces\tema 2\DEIN\DEIN\Estilos de Hugo\Estilos de Hugo\Estilos de Hugo\obj\Debug\Estilos de Hugo.pdb
