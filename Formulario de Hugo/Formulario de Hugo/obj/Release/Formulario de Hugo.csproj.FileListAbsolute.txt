@@ -1,0 +1,16 @@
+C:\Users\alumTA\Desktop\Lo mio\Interfaces\tema 2\DEIN\DEIN\Formulario de Hugo\Formulario de Hugo\bin\Release\Formulario de Hugo.exe.config
+C:\Users\alumTA\Desktop\Lo mio\Interfaces\tema 2\DEIN\DEIN\Formulario de Hugo\Formulario de Hugo\bin\Release\Formulario de Hugo.exe
+C:\Users\alumTA\Desktop\Lo mio\Interfaces\tema 2\DEIN\DEIN\Formulario de Hugo\Formulario de Hugo\bin\Release\Formulario de Hugo.pdb
+C:\Users\alumTA\Desktop\Lo mio\Interfaces\tema 2\DEIN\DEIN\Formulario de Hugo\Formulario de Hugo\obj\Release\Formulario de Hugo.csproj.AssemblyReference.cache
+C:\Users\alumTA\Desktop\Lo mio\Interfaces\tema 2\DEIN\DEIN\Formulario de Hugo\Formulario de Hugo\obj\Release\MainWindow.g.cs
+C:\Users\alumTA\Desktop\Lo mio\Interfaces\tema 2\DEIN\DEIN\Formulario de Hugo\Formulario de Hugo\obj\Release\App.g.cs
+C:\Users\alumTA\Desktop\Lo mio\Interfaces\tema 2\DEIN\DEIN\Formulario de Hugo\Formulario de Hugo\obj\Release\Formulario de Hugo_Content.g.cs
+C:\Users\alumTA\Desktop\Lo mio\Interfaces\tema 2\DEIN\DEIN\Formulario de Hugo\Formulario de Hugo\obj\Release\Formulario de Hugo_MarkupCompile.cache
+C:\Users\alumTA\Desktop\Lo mio\Interfaces\tema 2\DEIN\DEIN\Formulario de Hugo\Formulario de Hugo\obj\Release\Formulario de Hugo_MarkupCompile.lref
+C:\Users\alumTA\Desktop\Lo mio\Interfaces\tema 2\DEIN\DEIN\Formulario de Hugo\Formulario de Hugo\obj\Release\MainWindow.baml
+C:\Users\alumTA\Desktop\Lo mio\Interfaces\tema 2\DEIN\DEIN\Formulario de Hugo\Formulario de Hugo\obj\Release\Formulario de Hugo.g.resources
+C:\Users\alumTA\Desktop\Lo mio\Interfaces\tema 2\DEIN\DEIN\Formulario de Hugo\Formulario de Hugo\obj\Release\Formulario_de_Hugo.Properties.Resources.resources
+C:\Users\alumTA\Desktop\Lo mio\Interfaces\tema 2\DEIN\DEIN\Formulario de Hugo\Formulario de Hugo\obj\Release\Formulario de Hugo.csproj.GenerateResource.cache
+C:\Users\alumTA\Desktop\Lo mio\Interfaces\tema 2\DEIN\DEIN\Formulario de Hugo\Formulario de Hugo\obj\Release\Formulario de Hugo.csproj.CoreCompileInputs.cache
+C:\Users\alumTA\Desktop\Lo mio\Interfaces\tema 2\DEIN\DEIN\Formulario de Hugo\Formulario de Hugo\obj\Release\Formulario de Hugo.exe
+C:\Users\alumTA\Desktop\Lo mio\Interfaces\tema 2\DEIN\DEIN\Formulario de Hugo\Formulario de Hugo\obj\Release\Formulario de Hugo.pdb

@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Formulario_de_Hugo"
         mc:Ignorable="d"
-        Title="MainWindow" Height="1200" Width="800">
+        Title="MainWindow" Height="900" Width="800">
     <Grid>
         <TextBlock VerticalAlignment="Top" HorizontalAlignment="Center" FontSize="15" Text="Introducción de Datos de Empleado" Padding="5"/>
         <StackPanel Orientation="Horizontal" Width="750" Height="20" Margin="0, 40, 0, 0" VerticalAlignment="Top">
@@ -29,9 +29,69 @@
             <TextBox Height="20" Width="300" VerticalAlignment="Top" Margin="9, 0" BorderThickness="2">Seleccione una fecha</TextBox>
             <Image Source="/Imagen/png-transparent-square-with-pad-computer-icons-calendar-calendario-miscellaneous-text-rectangle-thumbnail.png" />
         </StackPanel>
-        <StackPanel Orientation="Horizontal" Width="750" Height="20" Margin="0, 130, 0, 0" VerticalAlignment="Top">
-            <TextBlock Text="Teléfono"/>
+        <StackPanel Orientation="Horizontal" Width="750" Height="20" Margin="0, 190, 0, 0" VerticalAlignment="Top">
+            <TextBlock Text="DNI"/>
             <TextBox Height="20" Width="300" VerticalAlignment="Top" Margin="9, 0"/>
+        </StackPanel>
+
+
+        <StackPanel Orientation="Horizontal" Width="750" Height="40" Margin="0, 250, 0, 0" VerticalAlignment="Top">
+            <TextBlock Text="Adjuntar fotografía" VerticalAlignment="Center"/>
+            <Button Width="100" Height="40" Margin="20, 0">Cargar Foto</Button>
+        </StackPanel>
+        
+        
+        <StackPanel Orientation="Horizontal" Width="750" Height="150" Margin="0, 320, 0, 0" VerticalAlignment="Top">
+            <TextBlock Text="Domicilio"/>
+            <TextBox Height="20" Width="300" VerticalAlignment="Top" Margin="20, 0" Text="Dirección"/>
+            <Image Source="/Imagen/BATMAN.png" Height="100" Margin="150, 0"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Width="750" Height="20" Margin="0, 350, 0, 0" VerticalAlignment="Top">
+            <TextBox Height="20" Width="300" VerticalAlignment="Top" Margin="71, 0" Text="Ciudad"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Width="750" Height="20" Margin="0, 380, 0, 0" VerticalAlignment="Top">
+            <TextBox Height="20" Width="300" VerticalAlignment="Top" Margin="71, 0" Text="Provincia"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Width="750" Height="20" Margin="0, 410, 0, 0" VerticalAlignment="Top">
+            <TextBox Height="20" Width="300" VerticalAlignment="Top" Margin="71, 0" Text="Código Postal"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Width="750" Height="20" Margin="0, 440, 0, 0" VerticalAlignment="Top">
+            <TextBox Height="20" Width="300" VerticalAlignment="Top" Margin="71, 0" Text="País"/>
+        </StackPanel>
+        
+        <StackPanel Orientation="Horizontal" Width="750" Height="20" Margin="0,480, 0, 0" VerticalAlignment="Top">
+            <TextBlock Text="Enlace a red social"/>
+            <TextBox Height="20" Width="600" VerticalAlignment="Top" Margin="20, 0"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Width="750" Height="20" Margin="0,510, 0, 0" VerticalAlignment="Top">
+            <TextBlock Text="Rol actual"/>
+            <Menu Width="200" Margin="66, 0" BorderThickness="" BorderBrush="Gray">
+                <MenuItem Header="                                                       v">
+                    <MenuItem Header="Desarrollador"/>
+                    <MenuItem Header="Analista"/>
+                </MenuItem>
+            </Menu>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Width="750" Height="20" Margin="0,550, 0, 0" VerticalAlignment="Top">
+            <TextBlock Text="Enlace a red social"/>
+            
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Width="750" Height="80" Margin="0,580, 0, 0" VerticalAlignment="Top">
+            <TextBox Height="80" Width="716" VerticalAlignment="Top" />
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Width="750" Height="60" Margin="0,660, 0, 0" VerticalAlignment="Top">
+            <Button Width="100" Height="40" Margin="260,0, 0, 0">Guardar</Button>
+            <Button Width="100" Height="40" Margin="10,0">Cancelar</Button>
+        </StackPanel>
+        <StackPanel Grid.Row="14" Grid.ColumnSpan="2" Margin="20,720,20,0">
+            <DataGrid Height="25">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Nombre" Binding="{Binding Nombre}"/>
+                    <DataGridTextColumn Header="Apellidos" Binding="{Binding Nombre}"/>
+                    <DataGridTextColumn Header="Email" Binding="{Binding Nombre}"/>
+                    <DataGridTextColumn Header="Teléfono" Binding="{Binding Nombre}"/>
+                </DataGrid.Columns>
+            </DataGrid>
         </StackPanel>
     </Grid>
 </Window>
