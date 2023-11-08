@@ -10,24 +10,23 @@
         <TextBlock VerticalAlignment="Top" HorizontalAlignment="Center" FontSize="15" Text="Introducción de Datos de Empleado" Padding="5"/>
         <StackPanel Orientation="Horizontal" Width="750" Height="20" Margin="0, 40, 0, 0" VerticalAlignment="Top">
             <TextBlock Text="Nombre"/>
-            <TextBox Height="20" Width="300" VerticalAlignment="Top" Margin="10, 0"/>
+            <TextBox x:Name="txtNombre" Height="20" Width="300" VerticalAlignment="Top" Margin="10, 0"/>
         </StackPanel>
         <StackPanel Orientation="Horizontal" Width="750" Height="20" Margin="0, 70, 0, 0" VerticalAlignment="Top">
             <TextBlock Text="Apellidos"/>
-            <TextBox Height="20" Width="300" VerticalAlignment="Top" Margin="5, 0"/>
+            <TextBox x:Name="txtApellidos" Height="20" Width="300" VerticalAlignment="Top" Margin="5, 0"/>
         </StackPanel>
         <StackPanel Orientation="Horizontal" Width="750" Height="20" Margin="0, 100, 0, 0" VerticalAlignment="Top">
             <TextBlock Text="E-mail"/>
-            <TextBox Height="20" Width="300" VerticalAlignment="Top" Margin="21, 0"/>
+            <TextBox x:Name="txtEmail" Height="20" Width="300" VerticalAlignment="Top" Margin="21, 0"/>
         </StackPanel>
         <StackPanel Orientation="Horizontal" Width="750" Height="20" Margin="0, 130, 0, 0" VerticalAlignment="Top">
             <TextBlock Text="Teléfono"/>
-            <TextBox Height="20" Width="300" VerticalAlignment="Top" Margin="9, 0"/>
+            <TextBox x:Name="txtTelefono" Height="20" Width="300" VerticalAlignment="Top" Margin="9, 0"/>
         </StackPanel>
         <StackPanel Orientation="Horizontal" Width="750" Height="20" Margin="0, 160, 0, 0" VerticalAlignment="Top">
             <TextBlock Text="Fecha de nacimiento"/>
-            <TextBox Height="20" Width="300" VerticalAlignment="Top" Margin="9, 0" BorderThickness="2">Seleccione una fecha</TextBox>
-            <Image Source="/Imagen/png-transparent-square-with-pad-computer-icons-calendar-calendario-miscellaneous-text-rectangle-thumbnail.png" />
+            <DatePicker Height="25" Width="300" VerticalAlignment="Top" Margin="9,0"/>
         </StackPanel>
         <StackPanel Orientation="Horizontal" Width="750" Height="20" Margin="0, 190, 0, 0" VerticalAlignment="Top">
             <TextBlock Text="DNI"/>
@@ -35,61 +34,62 @@
         </StackPanel>
 
 
-        <StackPanel Orientation="Horizontal" Width="750" Height="40" Margin="0, 250, 0, 0" VerticalAlignment="Top">
+        <StackPanel Orientation="Horizontal" Width="750" Height="70" Margin="0, 240, 0, 0" VerticalAlignment="Top">
             <TextBlock Text="Adjuntar fotografía" VerticalAlignment="Center"/>
-            <Button Width="100" Height="40" Margin="20, 0">Cargar Foto</Button>
+            <Button Width="100" Height="40" Margin="20, 0" Click="CargarFoto_Click">Cargar Foto</Button>
+            <Image x:Name="imagenCargada" Width="100" Height="70" VerticalAlignment="Center" Stretch="Uniform" Margin="0,-38,0,10" />
         </StackPanel>
-        
-        
+
+
         <StackPanel Orientation="Horizontal" Width="750" Height="150" Margin="0, 320, 0, 0" VerticalAlignment="Top">
             <TextBlock Text="Domicilio"/>
-            <TextBox Height="20" Width="300" VerticalAlignment="Top" Margin="20, 0" Text="Dirección"/>
+            <TextBox x:Name="txtDireccion"  Height="20" Width="300" VerticalAlignment="Top" Margin="20, 0" Text="Dirección" GotFocus="Txt_GotFocus" LostFocus="Txt_LostFocus"/>
             <Image Source="/Imagen/BATMAN.png" Height="100" Margin="150, 0"/>
         </StackPanel>
         <StackPanel Orientation="Horizontal" Width="750" Height="20" Margin="0, 350, 0, 0" VerticalAlignment="Top">
-            <TextBox Height="20" Width="300" VerticalAlignment="Top" Margin="71, 0" Text="Ciudad"/>
+            <TextBox x:Name="txtCiudad" Height="20" Width="300" VerticalAlignment="Top" Margin="71, 0" Text="Ciudad" GotFocus="Txt_GotFocus" LostFocus="Txt_LostFocus"/>
         </StackPanel>
         <StackPanel Orientation="Horizontal" Width="750" Height="20" Margin="0, 380, 0, 0" VerticalAlignment="Top">
-            <TextBox Height="20" Width="300" VerticalAlignment="Top" Margin="71, 0" Text="Provincia"/>
+            <TextBox x:Name="txtProvincia" Height="20" Width="300" VerticalAlignment="Top" Margin="71, 0" Text="Provincia" GotFocus="Txt_GotFocus" LostFocus="Txt_LostFocus"/>
         </StackPanel>
         <StackPanel Orientation="Horizontal" Width="750" Height="20" Margin="0, 410, 0, 0" VerticalAlignment="Top">
-            <TextBox Height="20" Width="300" VerticalAlignment="Top" Margin="71, 0" Text="Código Postal"/>
+            <TextBox x:Name="txtCodigoPostal" Height="20" Width="300" VerticalAlignment="Top" Margin="71, 0" Text="Código Postal" GotFocus="Txt_GotFocus" LostFocus="Txt_LostFocus"/>
         </StackPanel>
         <StackPanel Orientation="Horizontal" Width="750" Height="20" Margin="0, 440, 0, 0" VerticalAlignment="Top">
-            <TextBox Height="20" Width="300" VerticalAlignment="Top" Margin="71, 0" Text="País"/>
+            <TextBox x:Name="txtPais" Height="20" Width="300" VerticalAlignment="Top" Margin="71, 0"  Text="País" GotFocus="Txt_GotFocus" LostFocus="Txt_LostFocus"/>
         </StackPanel>
-        
+
         <StackPanel Orientation="Horizontal" Width="750" Height="20" Margin="0,480, 0, 0" VerticalAlignment="Top">
             <TextBlock Text="Enlace a red social"/>
             <TextBox Height="20" Width="600" VerticalAlignment="Top" Margin="20, 0"/>
         </StackPanel>
         <StackPanel Orientation="Horizontal" Width="750" Height="20" Margin="0,510, 0, 0" VerticalAlignment="Top">
             <TextBlock Text="Rol actual"/>
-            <Menu Width="200" Margin="66, 0" BorderThickness="" BorderBrush="Gray">
-                <MenuItem Header="                                                       v">
-                    <MenuItem Header="Desarrollador"/>
-                    <MenuItem Header="Analista"/>
+            <Menu Width="200" Margin="66, 0" BorderThickness="1" BorderBrush="Gray">
+                <MenuItem Name="principalMenu" Header="                                                       v">
+                    <MenuItem Header="Desarrollador" Click="MenuItem_Click"/>
+                    <MenuItem Header="Analista" Click="MenuItem_Click"/>
                 </MenuItem>
             </Menu>
         </StackPanel>
         <StackPanel Orientation="Horizontal" Width="750" Height="20" Margin="0,550, 0, 0" VerticalAlignment="Top">
-            <TextBlock Text="Enlace a red social"/>
-            
+            <TextBlock Text="Descripción de puesto de trabajo actual:"/>
+
         </StackPanel>
         <StackPanel Orientation="Horizontal" Width="750" Height="80" Margin="0,580, 0, 0" VerticalAlignment="Top">
             <TextBox Height="80" Width="716" VerticalAlignment="Top" />
         </StackPanel>
         <StackPanel Orientation="Horizontal" Width="750" Height="60" Margin="0,660, 0, 0" VerticalAlignment="Top">
-            <Button Width="100" Height="40" Margin="260,0, 0, 0">Guardar</Button>
-            <Button Width="100" Height="40" Margin="10,0">Cancelar</Button>
+            <Button Width="100" Height="40" Margin="260,0, 0, 0" Click="GuardarButton">Guardar</Button>
+            <Button Width="100" Height="40" Margin="10,0" Click="CancelarButton">Cancelar</Button>
         </StackPanel>
         <StackPanel Grid.Row="14" Grid.ColumnSpan="2" Margin="20,720,20,0">
-            <DataGrid Height="25">
+            <DataGrid Height="60" x:Name="dataGrid">
                 <DataGrid.Columns>
-                    <DataGridTextColumn Header="Nombre" Binding="{Binding Nombre}"/>
-                    <DataGridTextColumn Header="Apellidos" Binding="{Binding Nombre}"/>
-                    <DataGridTextColumn Header="Email" Binding="{Binding Nombre}"/>
-                    <DataGridTextColumn Header="Teléfono" Binding="{Binding Nombre}"/>
+                    <DataGridTextColumn Header="Nombre" Binding="{Binding txtNombre}"/>
+                    <DataGridTextColumn Header="Apellidos" Binding="{Binding Apellidos}"/>
+                    <DataGridTextColumn Header="Email" Binding="{Binding Email}"/>
+                    <DataGridTextColumn Header="Teléfono" Binding="{Binding Telefono}"/>
                 </DataGrid.Columns>
             </DataGrid>
         </StackPanel>
