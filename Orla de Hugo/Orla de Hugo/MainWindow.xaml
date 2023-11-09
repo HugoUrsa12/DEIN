@@ -44,6 +44,6 @@
                 </Button.Background>
             </Button>
         </StackPanel>
-        <Image Grid.Row="2" Grid.Column="1" Source="/Imagenes/PC.png" Margin="15"/>
+        <Image Grid.Row="2" Grid.Column="1" Source="/Imagenes/ordenador.png" Margin="15"/>
     </Grid>
 </Window>
