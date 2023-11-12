@@ -25,4 +25,16 @@ namespace Orla_de_Hugo
             InitializeComponent();
         }
     }
+
+    //private void MouseEnter41(object sender, MouseEventArgs e)
+    //{
+    //LabelPuesto41.Text = "Nombre del alumno en el puesto 41";
 }
+
+//private void MouseLeave41(object sender,
+
+//MouseEventArgs e)
+//{
+//LabelPuesto41.Text = "";
+//    }
+

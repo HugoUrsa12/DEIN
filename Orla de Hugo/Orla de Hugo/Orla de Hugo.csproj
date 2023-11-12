@@ -97,5 +97,32 @@
   <ItemGroup>
     <Resource Include="Imagenes\anuario.png" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Imagenes\Adrian1.jpg" />
+    <Resource Include="Imagenes\Adrian2.jpg" />
+    <Resource Include="Imagenes\Aitor.jpg" />
+    <Resource Include="Imagenes\Antonio.jpg" />
+    <Resource Include="Imagenes\Aritz.jpg" />
+    <Resource Include="Imagenes\Aritz2.jpg" />
+    <Resource Include="Imagenes\Cristina.jpg" />
+    <Resource Include="Imagenes\Hugo.jpg" />
+    <Resource Include="Imagenes\Imanol.jpg" />
+    <Resource Include="Imagenes\ivan.jpg" />
+    <Resource Include="Imagenes\javi.jpg" />
+    <Resource Include="Imagenes\Juan Pablo.jpg" />
+    <Resource Include="Imagenes\kaiet.jpg" />
+    <Resource Include="Imagenes\Randy.jpg" />
+    <Resource Include="Imagenes\Richi.jpg" />
+    <Resource Include="Imagenes\victor.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Imagenes\trans.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Imagenes\Profesor.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Imagenes\ordenador.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

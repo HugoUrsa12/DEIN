@@ -13,3 +13,18 @@ C:\Users\alumTA\Desktop\Lo mio\Interfaces\tema 2\DEIN\DEIN\Orla de Hugo\Orla de 
 C:\Users\alumTA\Desktop\Lo mio\Interfaces\tema 2\DEIN\DEIN\Orla de Hugo\Orla de Hugo\obj\Release\Orla de Hugo.csproj.CoreCompileInputs.cache
 C:\Users\alumTA\Desktop\Lo mio\Interfaces\tema 2\DEIN\DEIN\Orla de Hugo\Orla de Hugo\obj\Release\Orla de Hugo.exe
 C:\Users\alumTA\Desktop\Lo mio\Interfaces\tema 2\DEIN\DEIN\Orla de Hugo\Orla de Hugo\obj\Release\Orla de Hugo.pdb
+C:\Users\hurri\OneDrive\Escritorio\DEIN\DEIN\Orla de Hugo\Orla de Hugo\bin\Release\Orla de Hugo.exe.config
+C:\Users\hurri\OneDrive\Escritorio\DEIN\DEIN\Orla de Hugo\Orla de Hugo\bin\Release\Orla de Hugo.exe
+C:\Users\hurri\OneDrive\Escritorio\DEIN\DEIN\Orla de Hugo\Orla de Hugo\bin\Release\Orla de Hugo.pdb
+C:\Users\hurri\OneDrive\Escritorio\DEIN\DEIN\Orla de Hugo\Orla de Hugo\obj\Release\Orla de Hugo.csproj.AssemblyReference.cache
+C:\Users\hurri\OneDrive\Escritorio\DEIN\DEIN\Orla de Hugo\Orla de Hugo\obj\Release\MainWindow.g.cs
+C:\Users\hurri\OneDrive\Escritorio\DEIN\DEIN\Orla de Hugo\Orla de Hugo\obj\Release\App.g.cs
+C:\Users\hurri\OneDrive\Escritorio\DEIN\DEIN\Orla de Hugo\Orla de Hugo\obj\Release\Orla de Hugo_MarkupCompile.cache
+C:\Users\hurri\OneDrive\Escritorio\DEIN\DEIN\Orla de Hugo\Orla de Hugo\obj\Release\Orla de Hugo_MarkupCompile.lref
+C:\Users\hurri\OneDrive\Escritorio\DEIN\DEIN\Orla de Hugo\Orla de Hugo\obj\Release\MainWindow.baml
+C:\Users\hurri\OneDrive\Escritorio\DEIN\DEIN\Orla de Hugo\Orla de Hugo\obj\Release\Orla de Hugo.g.resources
+C:\Users\hurri\OneDrive\Escritorio\DEIN\DEIN\Orla de Hugo\Orla de Hugo\obj\Release\Orla_de_Hugo.Properties.Resources.resources
+C:\Users\hurri\OneDrive\Escritorio\DEIN\DEIN\Orla de Hugo\Orla de Hugo\obj\Release\Orla de Hugo.csproj.GenerateResource.cache
+C:\Users\hurri\OneDrive\Escritorio\DEIN\DEIN\Orla de Hugo\Orla de Hugo\obj\Release\Orla de Hugo.csproj.CoreCompileInputs.cache
+C:\Users\hurri\OneDrive\Escritorio\DEIN\DEIN\Orla de Hugo\Orla de Hugo\obj\Release\Orla de Hugo.exe
+C:\Users\hurri\OneDrive\Escritorio\DEIN\DEIN\Orla de Hugo\Orla de Hugo\obj\Release\Orla de Hugo.pdb
